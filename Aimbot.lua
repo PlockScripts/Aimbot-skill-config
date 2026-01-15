@@ -1,8 +1,6 @@
--- ts file was generated at discord.gg/25ms
-
 local v1 = {}
 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/PlockScripts/Aimbot-skill-config/refs/heads/main/Plock.lua'))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/PlockScripts/Aimbot-skill-config/refs/heads/main/Config.lua'))()
 
 local vu2 = game:GetService('Players')
 local vu3 = vu2.LocalPlayer
